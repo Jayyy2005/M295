@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "uXcBNeGCqpu4KsAhGlqeuX1D9Q09DfzY/B3UPzdm1Tw=",
+  "Source": "RavirajSanjay_LB_M295_V1",
+  "BasePath": "_content/RavirajSanjay_LB_M295_V1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RavirajSanjay_LB_M295_V1\\wwwroot",
+      "Source": "RavirajSanjay_LB_M295_V1",
+      "ContentRoot": "C:\\Users\\sanja\\source\\repos\\RavirajSanjay_LB_M295_V1\\RavirajSanjay_LB_M295_V1\\wwwroot\\",
+      "BasePath": "_content/RavirajSanjay_LB_M295_V1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sanja\\source\\repos\\RavirajSanjay_LB_M295_V1\\RavirajSanjay_LB_M295_V1\\wwwroot\\favicon.ico",
+      "SourceId": "RavirajSanjay_LB_M295_V1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sanja\\source\\repos\\RavirajSanjay_LB_M295_V1\\RavirajSanjay_LB_M295_V1\\wwwroot\\",
+      "BasePath": "_content/RavirajSanjay_LB_M295_V1",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sanja\\source\\repos\\RavirajSanjay_LB_M295_V1\\RavirajSanjay_LB_M295_V1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.RavirajSanjay_LB_M295_V1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.RavirajSanjay_LB_M295_V1.props",
+      "PackagePath": "build\\RavirajSanjay_LB_M295_V1.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RavirajSanjay_LB_M295_V1.props",
+      "PackagePath": "buildMultiTargeting\\RavirajSanjay_LB_M295_V1.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.RavirajSanjay_LB_M295_V1.props",
+      "PackagePath": "buildTransitive\\RavirajSanjay_LB_M295_V1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

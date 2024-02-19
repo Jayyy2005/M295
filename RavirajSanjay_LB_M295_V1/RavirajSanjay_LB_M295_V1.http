@@ -1,0 +1,6 @@
+@RavirajSanjay_LB_M295_V1_HostAddress = http://localhost:5142
+
+GET {{RavirajSanjay_LB_M295_V1_HostAddress}}
+Accept: application/json
+
+###

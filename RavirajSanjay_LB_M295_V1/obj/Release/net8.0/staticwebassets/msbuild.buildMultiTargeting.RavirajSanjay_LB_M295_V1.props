@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RavirajSanjay_LB_M295_V1.props" />
+</Project>
